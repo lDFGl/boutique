@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" role="img" aria-labelledby="t d">
-<title id="t">All Boutique</title><desc id="d">Marca All Boutique em rosé gold com monograma AB e diamante.</desc>
-<defs><linearGradient id="rg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4d2c8"/><stop offset=".35" stop-color="#b8786c"/><stop offset=".62" stop-color="#e9b9ad"/><stop offset="1" stop-color="#9d625a"/></linearGradient></defs>
-<g fill="none" stroke="url(#rg)" stroke-linecap="round" stroke-linejoin="round">
-<path stroke-width="5" d="M105 35l23 25-23 27-23-27z M82 60h46 M105 35v52"/>
-<path stroke-width="7" d="M36 195l67-116 68 116M61 151h85"/>
-<path stroke-width="7" d="M181 80h42c30 0 47 14 47 36 0 19-14 31-37 34 28 2 45 17 45 39 0 25-20 41-52 41h-45z"/>
-<path stroke-width="3" d="M45 218h235"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 390" role="img" aria-labelledby="title desc">
+<title id="title">All Boutique</title><desc id="desc">Monograma AB em rosé gold com diamante e nome All Boutique.</desc>
+<defs><linearGradient id="rose" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7d9cf"/><stop offset=".28" stop-color="#b97868"/><stop offset=".55" stop-color="#f5cdbf"/><stop offset=".8" stop-color="#9e5e52"/><stop offset="1" stop-color="#e9b9aa"/></linearGradient></defs>
+<g fill="none" stroke="url(#rose)" stroke-linecap="round" stroke-linejoin="round">
+<path stroke-width="5" d="M360 28l24 27-24 29-24-29z M336 55h48 M360 28v56"/>
+<path stroke-width="5" d="M210 205c-55-5-83-37-66-72 17-34 65-48 117-27 32 13 57 38 82 57l65-111c12-20 28-29 50-31l-68 179c-10 27-4 44 18 44 15 0 29-8 44-22"/>
+<path stroke-width="5" d="M367 102h60c47 0 76 22 76 56 0 30-23 50-59 55 42 3 69 25 69 59 0 40-33 65-84 65h-62"/>
+<path stroke-width="3" d="M175 305c52-10 93-39 134-77 28-25 55-48 88-63"/>
 </g>
-<text x="330" y="145" fill="#704b49" font-family="Georgia,'Times New Roman',serif" font-size="89" letter-spacing="9">ALL</text>
-<text x="335" y="204" fill="#a86e64" font-family="Arial,sans-serif" font-size="34" letter-spacing="17">BOUTIQUE</text>
-<path d="M335 220h470" stroke="url(#rg)" stroke-width="2"/>
+<text x="360" y="345" text-anchor="middle" fill="url(#rose)" font-family="Georgia,serif" font-size="51" letter-spacing="13">ALL BOUTIQUE</text>
+<path d="M145 367h155m175 0h100" stroke="url(#rose)" stroke-width="2"/>
+<path d="M360 358l8 9-8 9-8-9z" fill="url(#rose)"/>
 </svg>
